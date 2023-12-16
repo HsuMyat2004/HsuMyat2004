@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HsuMyatHtike
+- 👋 Hi, I’m Hsu Myat Htike
 - 👀 I’m interested in reading and listening to music 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on Website and also Software development
