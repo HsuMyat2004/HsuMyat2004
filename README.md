@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hsu Myat Htike
 - 👀 I’m interested in implementing Artifical Intelligence
-- 🌱 Java, Spring Boot, SQL, HTML, CSS, PHP, Laravel, Javascript, Python (basic), C#
+- 🌱 Native Java, Spring Boot, SQL, HTML, CSS, PHP, Laravel, Javascript, Python (basic), C#, React Native
 - 💞️ I’m looking for collaborated projects 
 
 <!---
