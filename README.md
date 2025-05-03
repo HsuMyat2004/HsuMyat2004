@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hsu Myat Htike
 - 👀 I’m interested in implementing Artifical Intelligence
 - 🌱 Native Java, Spring Boot, SQL, HTML, CSS, PHP, Laravel, Javascript, Python (basic), C#, React Native
-- 💞️ I’m looking for collaborated projects 
+- 💞️ I’m looking for collaborative projects 
 
 <!---
 HsuMyat2004/HsuMyat2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
