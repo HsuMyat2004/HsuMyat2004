@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hsu Myat Htike
-- 👀 I’m interested in reading and listening to music 
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Website and also Software development
+- 👀 I’m interested in implementing Artifical Intelligence
+- 🌱 Java, Spring Boot, SQL, HTML, CSS, PHP, Laravel, Javascript, Python (basic), C#
+- 💞️ I’m looking for collaborated projects 
 
 <!---
 HsuMyat2004/HsuMyat2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
