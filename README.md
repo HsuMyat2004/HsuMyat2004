@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hsu Myat Htike
-- 👀 I’m interested in implementing Artifical Intelligence
+- 👀 I’m focusing on full-stack development
 - 🌱 Native Java, Spring Boot, SQL, HTML, CSS, PHP, Laravel, Javascript, Python (basic), C#, React Native
 - 💞️ I’m looking for collaborative projects 
 
