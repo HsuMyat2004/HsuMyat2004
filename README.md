@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hsu Myat Htike
 - 👀 I’m focusing on full-stack development
-- 🌱 Native Java, Spring Boot, SQL, HTML, CSS, PHP, Laravel, Javascript, Python (basic), C#, React Native
+- 🌱 Native Java, Spring Boot, SQL, HTML, CSS, PHP, Laravel, Javascript, Python (basic), C#, React Native, API
 - 💞️ I’m looking for collaborative projects 
 
 <!---
