@@ -1,1 +1,2 @@
 - PHP, Laravel, Core Java, JDBC, JPA, Servlet, MYSQL
+- OOP and Agile Scrum
